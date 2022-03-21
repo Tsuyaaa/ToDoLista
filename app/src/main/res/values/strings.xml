@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">To Do</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Adicionar a lista</string>
+    <string name="apagar">Apagar</string>
+    <string name="andamento">Andamento</string>
+</resources>
